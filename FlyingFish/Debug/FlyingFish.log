@@ -1,0 +1,76 @@
+﻿  camera.cpp
+  coin.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\coin.cpp(42): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\coin.cpp(43): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\coin.cpp(44): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  coin10.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\coin10.cpp(36): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\coin10.cpp(37): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\coin10.cpp(38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  game.cpp
+  input.cpp
+  judge.cpp
+  kabe.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\kabe.cpp(40): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\kabe.cpp(41): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\kabe.cpp(42): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  lighting.cpp
+  main.cpp
+  MeshField.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\meshfield.cpp(22): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\meshfield.cpp(23): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\meshfield.cpp(145): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\meshfield.cpp(146): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  number.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\number.cpp(25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  number2.cpp
+  Polygon.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(226): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(227): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(229): warning C4244: '初期化中': 'const float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(230): warning C4244: '初期化中': 'const float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(292): warning C4244: '初期化中': 'const float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(293): warning C4244: '初期化中': 'const float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(320): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(321): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(336): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(337): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(338): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\polygon.cpp(339): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  Polygon3Dtest.cpp
+  result.cpp
+  scene.cpp
+  score.cpp
+  score2.cpp
+  Shadow.cpp
+  sound.cpp
+  コードを生成中...
+  コンパイル中...
+  speedup.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\speedup.cpp(38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\speedup.cpp(39): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\speedup.cpp(40): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  taihou.cpp
+  target.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\target.cpp(51): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  tatemono.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\tatemono.cpp(41): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\tatemono.cpp(43): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  title.cpp
+  UI.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\ui.cpp(166): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\ui.cpp(167): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  xmodel.cpp
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(493): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(494): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(519): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(520): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(547): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(548): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(631): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(632): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(681): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(683): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\alfam\documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\flyingfish\xmodel.cpp(734): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  FlyingFish.vcxproj -> C:\Users\alfam\Documents\ゲームプログラマー研究作品\フライングフィッシュ関連\フライングフィッシュ(プロジェクトver4.0)\Debug\FlyingFish.exe
